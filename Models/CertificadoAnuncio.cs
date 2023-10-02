@@ -1,6 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
+//acrescentar tipo certificado A1 e A3 Rever isso em todas as etapas do crud
+
 namespace MpCertificado.Models
 {
     public class CertificadoAnuncio
